@@ -88,6 +88,10 @@ A few practical points to be aware of:
 AI assistance was used for supporting to understand certain R functions, to help understand some of the formulas used and to fix typos. 
 It was designed the analysis and generate the results by our team members.
 
+## Related repository
+This is the cleaned final version of the project. 
+The group's full working repository is available here:
+https://github.com/Lukaters/R-Project---Reproducible-Research.git
 
 ## Team Member
 
