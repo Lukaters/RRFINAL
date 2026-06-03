@@ -70,6 +70,6 @@ It was designed the analysis and generate the results by our team members.
 
 ## Team Member
 
-- Luka De Katers (487317)
+- Luka de Caters (487317)
 - Stanislaw Godlewski (473016)
 - Hayeong Jae (488101)
